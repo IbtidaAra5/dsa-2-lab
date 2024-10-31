@@ -1,4 +1,4 @@
-//Array print.c
+///Array print.c
 #include <stdio.h>
 
 void printArray(int arr[], int n) {
